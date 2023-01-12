@@ -1,0 +1,5 @@
+9. Thẻ inline và block
+
+- Thẻ inline : chiều dài của thẻ tính theo chiều dài content
+
+- Thẻ block : chiều dài của thẻ đến 100% width thẻ cha

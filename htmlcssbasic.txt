@@ -1,0 +1,63 @@
+1. Cấu trúc file HTML
+
+2. Các thẻ meta
+
+3. Thuộc tính trong HTML
+
+4. Các thẻ tiêu đề
+
+5. Thẻ đoạn văn
+
+6. Sử dụng liên kết
+
+7. Sử dụng Emmet
+
+8. Tính thừa kế CSS
+
+9. Thẻ inline và block
+
+10. Đệm, viền, khoảng lề
+
+11. Đơn vị trong CSS
+
+12. Làm việc với font chữ
+
+13. Làm việc với màu sắc
+
+14. Làm việc với hình ảnh
+
+15. Làm việc với background
+
+16. Thuộc tính vị trí
+
+17. Biến trong CSS
+
+18. CSS selectors nâng cao
+
+19. Đặt tên class theo BEM
+
+20. Semantic trong HTML5
+
+21. Dàn trang với Flex Box
+
+22. Dàn trang với CSS Grid
+
+23. Forms và Validations
+
+24. Responsive Web Design
+
+25. Grid System 12 Columns
+
+26. Animations
+
+27. Sử dụng Sass
+
+28. Web Accessibility
+
+29. Tìm hiểu về UI và UX
+
+30. Rèn luyện mắt thẩm mỹ
+
+31. Sử dụng Github
+
+32. Kiến thức SEO cơ bản

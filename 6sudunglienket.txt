@@ -1,0 +1,7 @@
+6. Sử dụng liên kết
+
+- Thẻ a link
+
+- Chứa attribute href cung cấp đường link 
+
+- target="_blank" tác dụng khi click vào bật ra cửa sổ window mới

@@ -1,0 +1,8 @@
+11. Đơn vị trong CSS
+
+- Đơn vị tương đối : %, rem, em ...
+% theo phần tử cha
+rem theo thẻ html
+em theo phần tử cha
+
+- Đơn vị tuyệt đối : px, in...

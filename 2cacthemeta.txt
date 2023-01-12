@@ -1,0 +1,11 @@
+2. Các thẻ meta: Các thẻ bên trong thẻ <head></head> cung cấp thông tin trang cho công cụ tìm kiếm
+
+- Title : Khai báo tiêu đề của trang web
+
+- Meta description : Khai báo tóm tắt nội dung của trang web
+
+- Meta content-type : Khai báo hệ thống ký tự 
+
+- Meta viewport : Thẻ giúp trang web thích ứng với kích thước phóng to, thu nhỏ
+
+- Meta language

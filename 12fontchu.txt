@@ -1,0 +1,3 @@
+12. Làm việc với font chữ
+
+- font-size, font-weight, font-family, text-align, ...

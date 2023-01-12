@@ -1,0 +1,2 @@
+5. Thẻ đoạn văn
+- Thẻ p : chứa các đoạn text

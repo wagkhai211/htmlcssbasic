@@ -1,0 +1,11 @@
+1. Cấu trúc file HTML
+
+- Thẻ <!DOCTYPE html> khai báo version html (hiện tại là html5)
+
+- Thẻ <html></html> bao bọc trang web, bên trong có thể <head></head>, <body></body>
+
+- Thẻ <head></head> bên trong có: thẻ <title></title> khai báo tiêu đề của trang web,
+thẻ meta với các attributes charset, name, http-equiv...,
+thẻ link css, js, fonts, ...
+
+- Thẻ <body></body> : Chứa tất cả các nội dung của trang web

@@ -1,0 +1,7 @@
+10. Đệm, viền, khoảng lề
+
+- Đệm (padding) : phần đệm xung quanh content
+
+- Viền (border) : phần viền bên ngoài phần padding
+
+- Khoảng lề(margin) : khoảng khồng gian xung quanh phần tử

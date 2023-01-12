@@ -1,0 +1,2 @@
+3. Thuộc tính trong HTML
+Attributes cung cấp miêu tả cho thẻ html
